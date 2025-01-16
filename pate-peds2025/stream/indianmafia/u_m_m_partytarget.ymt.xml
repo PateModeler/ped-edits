@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CPedVariationInfo>
+ <bHasTexVariations value="true" />
+ <bHasDrawblVariations value="true" />
+ <bHasLowLODs value="false" />
+ <bIsSuperLOD value="false" />
+ <availComp>0 255 1 2 3 255 255 255 255 255 255 255</availComp>
+ <aComponentData3 itemType="CPVComponentData">
+  <Item>
+   <numAvailTex value="1" />
+   <aDrawblData3 itemType="CPVDrawblData">
+    <Item>
+     <propMask value="17" />
+     <numAlternatives value="0" />
+     <aTexData itemType="CPVTextureData">
+      <Item>
+       <texId value="1" />
+       <distribution value="255" />
+      </Item>
+     </aTexData>
+     <clothData>
+      <ownsCloth value="false" />
+     </clothData>
+    </Item>
+   </aDrawblData3>
+  </Item>
+  <Item>
+   <numAvailTex value="1" />
+   <aDrawblData3 itemType="CPVDrawblData">
+    <Item>
+     <propMask value="9" />
+     <numAlternatives value="0" />
+     <aTexData itemType="CPVTextureData">
+      <Item>
+       <texId value="0" />
+       <distribution value="255" />
+      </Item>
+     </aTexData>
+     <clothData>
+      <ownsCloth value="false" />
+     </clothData>
+    </Item>
+   </aDrawblData3>
+  </Item>
+  <Item>
+   <numAvailTex value="1" />
+   <aDrawblData3 itemType="CPVDrawblData">
+    <Item>
+     <propMask value="27" />
+     <numAlternatives value="0" />
+     <aTexData itemType="CPVTextureData">
+      <Item>
+       <texId value="1" />
+       <distribution value="255" />
+      </Item>
+     </aTexData>
+     <clothData>
+      <ownsCloth value="false" />
+     </clothData>
+    </Item>
+   </aDrawblData3>
+  </Item>
+  <Item>
+   <numAvailTex value="1" />
+   <aDrawblData3 itemType="CPVDrawblData">
+    <Item>
+     <propMask value="17" />
+     <numAlternatives value="0" />
+     <aTexData itemType="CPVTextureData">
+      <Item>
+       <texId value="1" />
+       <distribution value="255" />
+      </Item>
+     </aTexData>
+     <clothData>
+      <ownsCloth value="false" />
+     </clothData>
+    </Item>
+   </aDrawblData3>
+  </Item>
+ </aComponentData3>
+ <aSelectionSets itemType="CPedSelectionSet" />
+ <compInfos itemType="CComponentInfo">
+  <Item>
+   <pedXml_audioID>none</pedXml_audioID>
+   <pedXml_audioID2>none</pedXml_audioID2>
+   <pedXml_expressionMods>0 0 0 0 0</pedXml_expressionMods>
+   <flags value="0" />
+   <inclusions>0</inclusions>
+   <exclusions>0</exclusions>
+   <pedXml_vfxComps>PV_COMP_HEAD</pedXml_vfxComps>
+   <pedXml_flags value="0" />
+   <pedXml_compIdx value="0" />
+   <pedXml_drawblIdx value="0" />
+  </Item>
+  <Item>
+   <pedXml_audioID>none</pedXml_audioID>
+   <pedXml_audioID2>none</pedXml_audioID2>
+   <pedXml_expressionMods>0 0 0 0 0</pedXml_expressionMods>
+   <flags value="0" />
+   <inclusions>0</inclusions>
+   <exclusions>0</exclusions>
+   <pedXml_vfxComps>PV_COMP_HEAD</pedXml_vfxComps>
+   <pedXml_flags value="0" />
+   <pedXml_compIdx value="2" />
+   <pedXml_drawblIdx value="0" />
+  </Item>
+  <Item>
+   <pedXml_audioID>cloth_upper_shirt_cotton_lite</pedXml_audioID>
+   <pedXml_audioID2>none</pedXml_audioID2>
+   <pedXml_expressionMods>0 0 0 0 0</pedXml_expressionMods>
+   <flags value="0" />
+   <inclusions>0</inclusions>
+   <exclusions>0</exclusions>
+   <pedXml_vfxComps>PV_COMP_HEAD</pedXml_vfxComps>
+   <pedXml_flags value="0" />
+   <pedXml_compIdx value="3" />
+   <pedXml_drawblIdx value="0" />
+  </Item>
+  <Item>
+   <pedXml_audioID>cloth_lower_shorts</pedXml_audioID>
+   <pedXml_audioID2>shoe_flip_flops</pedXml_audioID2>
+   <pedXml_expressionMods>0 0 0 0 0</pedXml_expressionMods>
+   <flags value="0" />
+   <inclusions>0</inclusions>
+   <exclusions>0</exclusions>
+   <pedXml_vfxComps>PV_COMP_HEAD</pedXml_vfxComps>
+   <pedXml_flags value="0" />
+   <pedXml_compIdx value="4" />
+   <pedXml_drawblIdx value="0" />
+  </Item>
+ </compInfos>
+ <propInfo>
+  <numAvailProps value="1" />
+  <aPropMetaData itemType="CPedPropMetaData">
+   <Item>
+    <audioId>none</audioId>
+    <expressionMods>0 0 0 0 0</expressionMods>
+    <texData itemType="CPedPropTexData">
+     <Item>
+      <inclusions>0</inclusions>
+      <exclusions>0</exclusions>
+      <texId value="0" />
+      <inclusionId value="0" />
+      <exclusionId value="0" />
+      <distribution value="255" />
+     </Item>
+    </texData>
+    <renderFlags>PRF_ALPHA</renderFlags>
+    <propFlags value="0" />
+    <flags value="0" />
+    <anchorId value="1" />
+    <propId value="0" />
+    <stickyness value="0" />
+   </Item>
+  </aPropMetaData>
+  <aAnchors itemType="CAnchorProps">
+   <Item>
+    <props>1</props>
+    <anchor>ANCHOR_EYES</anchor>
+   </Item>
+  </aAnchors>
+ </propInfo>
+ <dlcName />
+</CPedVariationInfo>
