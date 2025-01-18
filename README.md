@@ -1,1 +1,3 @@
-Join discord for support:  https://discord.gg/dBBA6Jj6jD
+Join discord for support: 
+
+https://discord.gg/drbaKU36nh
